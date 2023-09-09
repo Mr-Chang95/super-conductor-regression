@@ -5,6 +5,8 @@
 
 # Super Conductors - Critical Temperature Prediction with Linear Regression
 
+This project was done with [Joey Hernandez](https://github.com/joeyhdz). 
+
 ## Intoduction
 Superconductivity is a fascinating quantum mechanical phenomenon where a material, under certain conditions,
 can exhibit zero electrical resistance, allowing electrical current to flow without loss of energy.
